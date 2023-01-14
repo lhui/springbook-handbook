@@ -9,4 +9,4 @@
 
 ## 2.Just Start
 
-* [小试牛刀](2.just-start/try-to-start.md)
+* [小试牛刀](2.-just-start/try-to-start.md)
