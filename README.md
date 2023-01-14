@@ -6,6 +6,6 @@
 
 目录如下:
 
-{% content-ref url="https://app.gitbook.com/s/k3rRd7HPytXroEJAhuRc/" %}
-[Springboot-handbook](https://app.gitbook.com/s/k3rRd7HPytXroEJAhuRc/)
+{% content-ref url="https://app.gitbook.com/o/y286qyjg571wCTpxrcci/s/GKZ7T2SeTAQTz6ga23E8/" %}
+[SpringBoot Handbook](https://app.gitbook.com/o/y286qyjg571wCTpxrcci/s/GKZ7T2SeTAQTz6ga23E8/)
 {% endcontent-ref %}
