@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [序言](README.md)
+* [序言](<README (1).md>)
 
 ## 1. 环境安装 <a href="#1.env-configuration" id="1.env-configuration"></a>
 
