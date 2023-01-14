@@ -7,6 +7,6 @@
 
 * [MacOS 系统配置](1.env-configuration/macos-configuration.md)
 
-## 2. Just Start
+## 2.Just Start
 
-* [小试牛刀](2.-just-start/try-to-start.md)
+* [小试牛刀](2.just-start/try-to-start.md)
