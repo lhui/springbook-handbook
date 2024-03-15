@@ -1,11 +1,41 @@
-# 前言
+# Website
 
-在去年的时候就想写一本书，总结自己的对于过去和当时的技术方面的思考，将自己的经验做一个想来对说较为系统的总结，同时也可以使得未来学习更加有目标，去年基于时间因素没有开始，今年打算开始做，并将其做完。
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-本册书采用 gitbook 来进行编写，我认为与软件开发一样，初始环境一直是每一位开发所最头疼的问题，开发环境不好，不稳定，就很难开始实际要做的内容，因此采用 gitbook 也是这个原因，将时间专注于协作，专注于分享，而不是只是做一个选择和尝试写作框架的体验官。
+### Installation
 
-目录如下:
+```
+$ yarn
+```
 
-{% content-ref url="https://app.gitbook.com/o/y286qyjg571wCTpxrcci/s/GKZ7T2SeTAQTz6ga23E8/" %}
-[SpringBoot Handbook](https://app.gitbook.com/o/y286qyjg571wCTpxrcci/s/GKZ7T2SeTAQTz6ga23E8/)
-{% endcontent-ref %}
+### Local Development
+
+```
+$ yarn start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

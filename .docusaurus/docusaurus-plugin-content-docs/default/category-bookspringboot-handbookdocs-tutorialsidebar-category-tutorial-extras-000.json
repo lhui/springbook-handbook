@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/book/springboot-handbook/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/book/springboot-handbook/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/book/springboot-handbook/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}
