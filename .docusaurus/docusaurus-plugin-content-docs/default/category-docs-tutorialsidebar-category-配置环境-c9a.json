@@ -1,0 +1,16 @@
+{
+  "title": "配置环境",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/配置环境",
+  "permalink": "/docs/category/配置环境",
+  "navigation": {
+    "previous": {
+      "title": "序言",
+      "permalink": "/docs/preface"
+    },
+    "next": {
+      "title": "MacOS 系统配置",
+      "permalink": "/docs/tutorial-basics/config-env"
+    }
+  }
+}

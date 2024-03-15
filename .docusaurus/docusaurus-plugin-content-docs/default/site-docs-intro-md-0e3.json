@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "前言",
+  "description": "在去年的时候就想写一本书，总结自己的对于过去和当时的技术方面的思考，将自己的经验做一个想来对说较为系统的总结，同时也可以使得未来学习更加有目标，去年基于时间因素没有开始，今年打算开始做，并将其做完。",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "序言",
+    "permalink": "/docs/preface"
   }
 }

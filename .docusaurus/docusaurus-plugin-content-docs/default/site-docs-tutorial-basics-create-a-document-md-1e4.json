@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Page",
+    "title": "MacOS 系统配置",
     "permalink": "/docs/tutorial-basics/create-a-page"
   },
   "next": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+    "title": "Markdown Features",
+    "permalink": "/docs/tutorial-basics/markdown-features"
   }
 }

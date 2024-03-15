@@ -11,36 +11,29 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "前言",
         "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
       {
+        "type": "link",
+        "label": "序言",
+        "href": "/docs/preface",
+        "docId": "preface",
+        "unlisted": false
+      },
+      {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "配置环境",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post",
+            "label": "MacOS 系统配置",
+            "href": "/docs/tutorial-basics/config-env",
+            "docId": "tutorial-basics/config-env",
             "unlisted": false
           },
           {
@@ -49,84 +42,45 @@
             "href": "/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features",
             "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations",
-            "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/docs/category/配置环境"
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Just Start",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site",
+            "label": "小试牛刀",
+            "href": "/docs/tutorial-extras/try-it",
+            "docId": "tutorial-extras/try-it",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/just-start"
       }
     ]
   },
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
+      "title": "前言",
+      "description": "在去年的时候就想写一本书，总结自己的对于过去和当时的技术方面的思考，将自己的经验做一个想来对说较为系统的总结，同时也可以使得未来学习更加有目标，去年基于时间因素没有开始，今年打算开始做，并将其做完。",
+      "sidebar": "tutorialSidebar"
+    },
+    "preface": {
+      "id": "preface",
+      "title": "序言",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+    "tutorial-basics/config-env": {
+      "id": "tutorial-basics/config-env",
+      "title": "MacOS 系统配置",
+      "description": "本节中主要记录的内容是如何在Mac中配置 Springboot 的环境，推荐的 IDE 工具是 IntelliJ IDEA ,好的软件可以使得事半功倍，IntelliJ IDEA 专业版的授权渠道主要有两种，一种直接购买，第二种采用学生账户注册，当然还有一种授权方式是企业授权，通过加入企业获得，这三种方式获得的软件使用起来都是一样的，只是授权方式不同而已，学生版要求不可以商业使用，其他的两种商业使用都是没有问题的。",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/markdown-features": {
@@ -135,16 +89,10 @@
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "tutorial-extras/try-it": {
+      "id": "tutorial-extras/try-it",
+      "title": "小试牛刀",
+      "description": "对于一个框架来说，最重要的有亮点，第一个是使用起来简单，第二点是理解起来简单，为何 Spring boot 成为市场占有率较大的企业级框架，而其他的框架就相形见绌呢，其中一个重要的一点就是，Spring boot 上手特别简单。点击几下鼠标，敲几下键盘，一个对外的接口就创建成功了，再了解下三层架构，数据库也可以简单加上了。",
       "sidebar": "tutorialSidebar"
     }
   }

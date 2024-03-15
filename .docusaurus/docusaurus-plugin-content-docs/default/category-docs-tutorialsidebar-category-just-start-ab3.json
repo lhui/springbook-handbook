@@ -1,0 +1,15 @@
+{
+  "title": "Just Start",
+  "slug": "/category/just-start",
+  "permalink": "/docs/category/just-start",
+  "navigation": {
+    "previous": {
+      "title": "Markdown Features",
+      "permalink": "/docs/tutorial-basics/markdown-features"
+    },
+    "next": {
+      "title": "小试牛刀",
+      "permalink": "/docs/tutorial-extras/try-it"
+    }
+  }
+}

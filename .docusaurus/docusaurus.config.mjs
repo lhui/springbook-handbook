@@ -5,18 +5,18 @@
  */
 export default {
   "title": "Springboot Handbook",
-  "tagline": "A Springboot Handbook for beginners",
+  "tagline": "A Springboot Handbook For Developers",
   "favicon": "img/favicon.ico",
   "url": "https://lihui.net",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "lhui",
+  "projectName": "springboot-handbook",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "zh-Hans",
     "locales": [
-      "en"
+      "zh-Hans"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -27,10 +27,6 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
@@ -52,12 +48,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "label": "阅读 Springboot Handbook"
         },
         {
           "href": "https://github.com/lhui/springboot-handbook",
@@ -83,16 +74,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/tcpgnl"
             }
           ]
         },
@@ -101,16 +84,16 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "/blog"
+              "href": "https://lihui.net"
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/lhui"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 - 2024  Created by Lihui. Sponsored By Beiji"
     },
     "prism": {
       "theme": {

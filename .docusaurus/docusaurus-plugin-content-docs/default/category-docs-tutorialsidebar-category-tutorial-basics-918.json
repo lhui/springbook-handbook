@@ -5,8 +5,8 @@
   "permalink": "/docs/category/tutorial---basics",
   "navigation": {
     "previous": {
-      "title": "Tutorial Intro",
-      "permalink": "/docs/intro"
+      "title": "序言",
+      "permalink": "/docs/preface"
     },
     "next": {
       "title": "Create a Page",
