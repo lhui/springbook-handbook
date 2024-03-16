@@ -1,14 +1,14 @@
 {
-  "id": "intro",
+  "id": "qianyan",
   "title": "前言",
   "description": "在2022年的时候就想写一本书，总结自己的在技术以及工作上的经验和思考，同时也将自己的所经历的内容做一个相对系统的总结,帮助后来者能够快速的建立起新项目, 并且遇到问题可以快速解决，同时也可以使得未来学习更加有目标，在2022年因为时间错不开因此没有开始,在2023年的这一年一直在带项目,积累了一些经验, 当前时间已经到了2024年了,对于一些内容有了更深刻的认识,因此今年打算继续完善内容做，并整理完成 1.0 版本。",
-  "source": "@site/docs/intro.md",
+  "source": "@site/docs/00_qianyan.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/docs/intro",
+  "slug": "/qianyan",
+  "permalink": "/docs/qianyan",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00_qianyan.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "序言",
-    "permalink": "/docs/preface"
+    "permalink": "/docs/xuyan"
   }
 }

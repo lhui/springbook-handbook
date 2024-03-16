@@ -12,15 +12,15 @@
       {
         "type": "link",
         "label": "前言",
-        "href": "/docs/intro",
-        "docId": "intro",
+        "href": "/docs/qianyan",
+        "docId": "qianyan",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "序言",
-        "href": "/docs/preface",
-        "docId": "preface",
+        "href": "/docs/xuyan",
+        "docId": "xuyan",
         "unlisted": false
       },
       {
@@ -55,8 +55,8 @@
           {
             "type": "link",
             "label": "小试牛刀",
-            "href": "/docs/tutorial-extras/try-it",
-            "docId": "tutorial-extras/try-it",
+            "href": "/docs/try-it/try-it",
+            "docId": "try-it/try-it",
             "unlisted": false
           }
         ],
@@ -65,16 +65,16 @@
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
+    "qianyan": {
+      "id": "qianyan",
       "title": "前言",
-      "description": "在去年的时候就想写一本书，总结自己的对于过去和当时的技术方面的思考，将自己的经验做一个想来对说较为系统的总结，同时也可以使得未来学习更加有目标，去年基于时间因素没有开始，今年打算开始做，并将其做完。",
+      "description": "在2022年的时候就想写一本书，总结自己的在技术以及工作上的经验和思考，同时也将自己的所经历的内容做一个相对系统的总结,帮助后来者能够快速的建立起新项目, 并且遇到问题可以快速解决，同时也可以使得未来学习更加有目标，在2022年因为时间错不开因此没有开始,在2023年的这一年一直在带项目,积累了一些经验, 当前时间已经到了2024年了,对于一些内容有了更深刻的认识,因此今年打算继续完善内容做，并整理完成 1.0 版本。",
       "sidebar": "tutorialSidebar"
     },
-    "preface": {
-      "id": "preface",
-      "title": "序言",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+    "try-it/try-it": {
+      "id": "try-it/try-it",
+      "title": "小试牛刀",
+      "description": "对于一个框架来说，最重要的有亮点，第一个是使用起来简单，第二点是理解起来简单，为何 Spring boot 成为市场占有率较大的企业级框架，而其他的框架就相形见绌呢，其中一个重要的一点就是，Spring boot 上手特别简单。点击几下鼠标，敲几下键盘，一个对外的接口就创建成功了，再了解下三层架构，数据库也可以简单加上了。",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/config-env": {
@@ -89,10 +89,10 @@
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/try-it": {
-      "id": "tutorial-extras/try-it",
-      "title": "小试牛刀",
-      "description": "对于一个框架来说，最重要的有亮点，第一个是使用起来简单，第二点是理解起来简单，为何 Spring boot 成为市场占有率较大的企业级框架，而其他的框架就相形见绌呢，其中一个重要的一点就是，Spring boot 上手特别简单。点击几下鼠标，敲几下键盘，一个对外的接口就创建成功了，再了解下三层架构，数据库也可以简单加上了。",
+    "xuyan": {
+      "id": "xuyan",
+      "title": "序言",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     }
   }

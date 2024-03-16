@@ -8,16 +8,16 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "qianyan",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "qianyan",
+              "path": "/docs/qianyan",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "preface",
-              "path": "/docs/preface",
+              "id": "try-it/try-it",
+              "path": "/docs/try-it/try-it",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -31,8 +31,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/try-it",
-              "path": "/docs/tutorial-extras/try-it",
+              "id": "xuyan",
+              "path": "/docs/xuyan",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -50,8 +50,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/qianyan",
+                "label": "qianyan"
               }
             }
           }

@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ee7'),
+    component: ComponentCreator('/docs', '48a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '43a'),
+        component: ComponentCreator('/docs', '1d3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7f2'),
+            component: ComponentCreator('/docs', '846'),
             routes: [
               {
                 path: '/docs/category/just-start',
@@ -67,14 +67,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
+                path: '/docs/qianyan',
+                component: ComponentCreator('/docs/qianyan', '7fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/preface',
-                component: ComponentCreator('/docs/preface', '154'),
+                path: '/docs/try-it/try-it',
+                component: ComponentCreator('/docs/try-it/try-it', '718'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -91,8 +91,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/try-it',
-                component: ComponentCreator('/docs/tutorial-extras/try-it', 'a8c'),
+                path: '/docs/xuyan',
+                component: ComponentCreator('/docs/xuyan', 'e68'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

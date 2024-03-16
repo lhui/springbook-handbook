@@ -74,7 +74,6 @@ const config: Config = {
         {
           title: 'Community',
           items: [
-          
             {
               label: 'Twitter',
               href: 'https://twitter.com/tcpgnl',

@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ee7": {
+  "/docs-48a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-186-16c"
     }
   },
-  "/docs-43a": {
+  "/docs-1d3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-7f2": {
+  "/docs-846": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/just-start-7de": {
@@ -70,13 +70,13 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-配置环境-1-ad-3f6"
   },
-  "/docs/intro-aed": {
+  "/docs/qianyan-7fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-qianyan-9-a-4-43c"
   },
-  "/docs/preface-154": {
+  "/docs/try-it/try-it-718": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prefacee-31-ac9"
+    "content": "content---docs-try-it-try-it-0-d-3-15a"
   },
   "/docs/tutorial-basics/config-env-3df": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -86,9 +86,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/docs/tutorial-extras/try-it-a8c": {
+  "/docs/xuyan-e68": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-try-ita-90-77a"
+    "content": "content---docs-xuyanc-16-8b7"
   },
   "/-a03": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
