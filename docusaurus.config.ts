@@ -10,7 +10,7 @@ const config: Config = {
   url: 'https://lihui.net',
   baseUrl: '/',
 
-  organizationName: 'lhui', 
+  organizationName: 'lhui',
   projectName: 'springboot-handbook',
 
   onBrokenLinks: 'throw',
