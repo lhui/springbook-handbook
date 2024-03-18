@@ -24,7 +24,7 @@
 - 使用 SpringBoot 实现定时任务
 - 使用 SpringBoot 实现文件上传/下载
 - 使用 SpringBoot 进行日志管理
-  - 日志配置
+  - 日志配置 Logback
   - 日志读取
 - 使用 SpringBoot 进行异常处理
 - 使用 SpringBoot 进行单元测试
@@ -45,6 +45,11 @@
 - 使用 SpringBoot 进行内存泄露分析及解决方案
 - SpringBoot 项目的最佳实践
 - SpringBoot 项目的常见问题及解决方案
+- SpringBoot 如何开发 websocket
+- SpringBoot 如何开发 restful api
+- SpringBoot 如何开发 graphql
+- SpringBoot 如何开发 rpc
+- SpringBoot 如何开发 dubbo
 
 ## 项目环境
 
