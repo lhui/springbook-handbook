@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Springboot Handbook",
-  "tagline": "A Springboot Handbook For Developers",
+  "title": "Springboot HandBook",
+  "tagline": "A Springboot HandBook For Developers",
   "favicon": "img/favicon.ico",
   "url": "https://lihui.net",
   "baseUrl": "/",
@@ -14,9 +14,9 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "zh-Hans",
     "locales": [
-      "en"
+      "zh-Hans"
     ],
     "path": "i18n",
     "localeConfigs": {}

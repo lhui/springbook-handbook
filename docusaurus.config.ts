@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Springboot Handbook',
-  tagline: 'A Springboot Handbook For Developers',
+  title: 'Springboot HandBook',
+  tagline: 'A Springboot HandBook For Developers',
   favicon: 'img/favicon.ico',
 
   url: 'https://lihui.net',
