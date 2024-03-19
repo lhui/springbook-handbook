@@ -28,7 +28,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/lhui/springboot-handbook/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
