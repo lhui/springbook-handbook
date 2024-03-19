@@ -8,7 +8,7 @@ export default {
   "tagline": "A Springboot HandBook For Developers",
   "favicon": "img/favicon.ico",
   "url": "https://lihui.net",
-  "baseUrl": "/",
+  "baseUrl": "/springboot-handbook/",
   "organizationName": "lhui",
   "projectName": "springboot-handbook",
   "onBrokenLinks": "throw",

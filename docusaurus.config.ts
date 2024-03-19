@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://lihui.net',
-  baseUrl: '/',
+  baseUrl: '/springboot-handbook/',
 
   organizationName: 'lhui',
   projectName: 'springboot-handbook',

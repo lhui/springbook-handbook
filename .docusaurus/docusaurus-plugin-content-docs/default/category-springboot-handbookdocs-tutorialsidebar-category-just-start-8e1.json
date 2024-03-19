@@ -1,0 +1,15 @@
+{
+  "title": "Just Start",
+  "slug": "/category/just-start",
+  "permalink": "/springboot-handbook/docs/category/just-start",
+  "navigation": {
+    "previous": {
+      "title": "Markdown Features",
+      "permalink": "/springboot-handbook/docs/tutorial-basics/markdown-features"
+    },
+    "next": {
+      "title": "小试牛刀",
+      "permalink": "/springboot-handbook/docs/try-it/try-it"
+    }
+  }
+}

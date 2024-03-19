@@ -1,57 +1,100 @@
 {
-  "/markdown-page-3ca": {
-    "__comp": "1f391b9e",
+  "/springboot-handbook/__docusaurus/debug-40c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "fc905c85"
-    },
-    "content": "393be207"
-  },
-  "/docs-48a": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "186a8070"
+      "plugin": "plugin---springboot-handbook-docusaurus-debug-045-364"
     }
   },
-  "/docs-1d3": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
-  },
-  "/docs-846": {
-    "__comp": "a94703ab"
-  },
-  "/docs/category/just-start-7de": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "3a2340c4"
-  },
-  "/docs/category/配置环境-7b8": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "1ad44fa3"
-  },
-  "/docs/qianyan-7fb": {
-    "__comp": "17896441",
-    "content": "9a41406f"
-  },
-  "/docs/try-it/try-it-718": {
-    "__comp": "17896441",
-    "content": "0d338e25"
-  },
-  "/docs/tutorial-basics/config-env-3df": {
-    "__comp": "17896441",
-    "content": "6db9e93d"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "17896441",
-    "content": "18c41134"
-  },
-  "/docs/xuyan-e68": {
-    "__comp": "17896441",
-    "content": "c1638a8a"
-  },
-  "/-a03": {
-    "__comp": "1df93b7f",
+  "/springboot-handbook/__docusaurus/debug/config-307": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "fc905c85"
+      "plugin": "plugin---springboot-handbook-docusaurus-debug-045-364"
+    }
+  },
+  "/springboot-handbook/__docusaurus/debug/content-252": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-docusaurus-debug-045-364"
     },
-    "config": "5e9f5e1a"
+    "allContent": "allContent---springboot-handbook-docusaurus-debug-content-246-76a"
+  },
+  "/springboot-handbook/__docusaurus/debug/globalData-2fd": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-docusaurus-debug-045-364"
+    }
+  },
+  "/springboot-handbook/__docusaurus/debug/metadata-df0": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-docusaurus-debug-045-364"
+    }
+  },
+  "/springboot-handbook/__docusaurus/debug/registry-d28": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-docusaurus-debug-045-364"
+    }
+  },
+  "/springboot-handbook/__docusaurus/debug/routes-379": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-docusaurus-debug-045-364"
+    }
+  },
+  "/springboot-handbook/markdown-page-4a3": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-markdown-pagefc-9-db3"
+    },
+    "content": "content---springboot-handbook-markdown-page-393-791"
+  },
+  "/springboot-handbook/docs-c7b": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-docs-186-f5b"
+    }
+  },
+  "/springboot-handbook/docs-085": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---springboot-handbook-docs-935-fab"
+  },
+  "/springboot-handbook/docs-080": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/springboot-handbook/docs/category/just-start-64e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---springboot-handbook-docs-category-just-starteb-1-e5d"
+  },
+  "/springboot-handbook/docs/category/配置环境-8ef": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---springboot-handbook-docs-category-配置环境-99-c-738"
+  },
+  "/springboot-handbook/docs/qianyan-49c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---springboot-handbook-docs-qianyan-9-a-4-c8a"
+  },
+  "/springboot-handbook/docs/try-it/try-it-35f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---springboot-handbook-docs-try-it-try-it-0-d-3-1ed"
+  },
+  "/springboot-handbook/docs/tutorial-basics/config-env-79d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---springboot-handbook-docs-tutorial-basics-config-env-6-db-87f"
+  },
+  "/springboot-handbook/docs/tutorial-basics/markdown-features-b96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---springboot-handbook-docs-tutorial-basics-markdown-features-18-c-dfa"
+  },
+  "/springboot-handbook/docs/xuyan-be9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---springboot-handbook-docs-xuyanc-16-38e"
+  },
+  "/springboot-handbook/-f83": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---springboot-handbook-markdown-pagefc-9-db3"
+    },
+    "config": "config---springboot-handbook-5-e-9-37a"
   }
 }

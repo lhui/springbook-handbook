@@ -1,48 +1,48 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/springboot-handbook/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/springboot-handbook/docs",
           "mainDocId": "qianyan",
           "docs": [
             {
               "id": "qianyan",
-              "path": "/docs/qianyan",
+              "path": "/springboot-handbook/docs/qianyan",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "try-it/try-it",
-              "path": "/docs/try-it/try-it",
+              "path": "/springboot-handbook/docs/try-it/try-it",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/config-env",
-              "path": "/docs/tutorial-basics/config-env",
+              "path": "/springboot-handbook/docs/tutorial-basics/config-env",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "path": "/springboot-handbook/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "xuyan",
-              "path": "/docs/xuyan",
+              "path": "/springboot-handbook/docs/xuyan",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/配置环境",
-              "path": "/docs/category/配置环境",
+              "path": "/springboot-handbook/docs/category/配置环境",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/just-start",
-              "path": "/docs/category/just-start",
+              "path": "/springboot-handbook/docs/category/just-start",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -50,7 +50,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/qianyan",
+                "path": "/springboot-handbook/docs/qianyan",
                 "label": "qianyan"
               }
             }

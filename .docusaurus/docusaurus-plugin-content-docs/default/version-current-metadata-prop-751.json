@@ -12,14 +12,14 @@
       {
         "type": "link",
         "label": "前言",
-        "href": "/docs/qianyan",
+        "href": "/springboot-handbook/docs/qianyan",
         "docId": "qianyan",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "序言",
-        "href": "/docs/xuyan",
+        "href": "/springboot-handbook/docs/xuyan",
         "docId": "xuyan",
         "unlisted": false
       },
@@ -32,19 +32,19 @@
           {
             "type": "link",
             "label": "MacOS 系统配置",
-            "href": "/docs/tutorial-basics/config-env",
+            "href": "/springboot-handbook/docs/tutorial-basics/config-env",
             "docId": "tutorial-basics/config-env",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
+            "href": "/springboot-handbook/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/配置环境"
+        "href": "/springboot-handbook/docs/category/配置环境"
       },
       {
         "type": "category",
@@ -55,12 +55,12 @@
           {
             "type": "link",
             "label": "小试牛刀",
-            "href": "/docs/try-it/try-it",
+            "href": "/springboot-handbook/docs/try-it/try-it",
             "docId": "try-it/try-it",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/just-start"
+        "href": "/springboot-handbook/docs/category/just-start"
       }
     ]
   },

@@ -1,0 +1,16 @@
+{
+  "title": "配置环境",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/配置环境",
+  "permalink": "/springboot-handbook/docs/category/配置环境",
+  "navigation": {
+    "previous": {
+      "title": "序言",
+      "permalink": "/springboot-handbook/docs/xuyan"
+    },
+    "next": {
+      "title": "MacOS 系统配置",
+      "permalink": "/springboot-handbook/docs/tutorial-basics/config-env"
+    }
+  }
+}
