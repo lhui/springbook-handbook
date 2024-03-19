@@ -10,13 +10,13 @@ sidebar_position: 1
 
 目录如下：
 
-- [Spring Boot 简介](./01_springboot_introduction.md)
-- [Spring Boot 快速入门](./02_springboot_quickstart.md)
-- [Spring Boot 配置](./03_springboot_configuration.md)
-- [Spring Boot 数据访问](./04_springboot_data_access.md)
-- [Spring Boot Web 开发](./05_springboot_web_development.md)
-- [Spring Boot 安全](./06_springboot_security.md)
-- [Spring Boot 测试](./07_springboot_testing.md)
-- [Spring Boot 部署](./08_springboot_deployment.md)
-- [Spring Boot 运维](./09_springboot_operations.md)
-- [Spring Boot 常见问题](./10_springboot_faq.md)
+Spring Boot 简介
+Spring Boot 快速入门
+Spring Boot 配置
+Spring Boot 数据访问
+Spring Boot Web 开发
+Spring Boot 安全
+Spring Boot 测试
+Spring Boot 部署
+Spring Boot 运维
+Spring Boot 常见问题
