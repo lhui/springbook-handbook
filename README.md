@@ -65,6 +65,10 @@
 3. 提交代码
 4. 新建 Pull Request
 
+## 项目作者
+ [lihui](https://github.com/lhui)
+
+
 ## 赞助该项目
 
 <https://github.com/sponsors/lhui>
