@@ -1,7 +1,7 @@
 {
   "id": "tutorial-basics/config-env",
   "title": "MacOS 系统配置",
-  "description": "本节中主要记录的内容是如何在Mac中配置 Springboot 的环境，推荐的 IDE 工具是 IntelliJ IDEA ,好的软件可以使得事半功倍，IntelliJ IDEA 专业版的授权渠道主要有两种，一种直接购买，第二种采用学生账户注册，当然还有一种授权方式是企业授权，通过加入企业获得，这三种方式获得的软件使用起来都是一样的，只是授权方式不同而已，学生版要求不可以商业使用，其他的两种商业使用都是没有问题的。",
+  "description": "本节主要介绍如何在 Mac 上配置 Spring Boot 环境。推荐使用 IntelliJ IDEA 作为 IDE 工具，Gradle 作为构建工具，以及 JDK 17 作为 Java 版本。优秀的软件可以事半功倍。IntelliJ IDEA 专业版有三种授权方式：直接购买、通过官方赞助活动获得（如学生认证免费获取），以及企业授权（加入有此福利的公司）。这三种方式获得的软件使用起来完全一致，只是授权方式不同。学生版/开源版本可能有商业使用限制，而其他两种商业授权方式则没有限制。",
   "source": "@site/docs/tutorial-basics/config-env.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/config-env",
