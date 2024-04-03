@@ -209,8 +209,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/springboot-handbook/blog/tags",
-      "blogTagsPaginated": []
+      "blogTagsListPath": "/springboot-handbook/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {

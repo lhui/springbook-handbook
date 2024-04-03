@@ -3,6 +3,11 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/springboot-handbook/',
+    component: ComponentCreator('/springboot-handbook/', 'e55'),
+    exact: true
+  },
+  {
     path: '/springboot-handbook/__docusaurus/debug',
     component: ComponentCreator('/springboot-handbook/__docusaurus/debug', '40c'),
     exact: true
@@ -39,20 +44,20 @@ export default [
   },
   {
     path: '/springboot-handbook/markdown-page',
-    component: ComponentCreator('/springboot-handbook/markdown-page', '4a3'),
+    component: ComponentCreator('/springboot-handbook/markdown-page', '4bc'),
     exact: true
   },
   {
     path: '/springboot-handbook/docs',
-    component: ComponentCreator('/springboot-handbook/docs', 'c7b'),
+    component: ComponentCreator('/springboot-handbook/docs', '568'),
     routes: [
       {
         path: '/springboot-handbook/docs',
-        component: ComponentCreator('/springboot-handbook/docs', '085'),
+        component: ComponentCreator('/springboot-handbook/docs', 'c0e'),
         routes: [
           {
             path: '/springboot-handbook/docs',
-            component: ComponentCreator('/springboot-handbook/docs', '080'),
+            component: ComponentCreator('/springboot-handbook/docs', 'd34'),
             routes: [
               {
                 path: '/springboot-handbook/docs/category/just-start',
@@ -68,31 +73,31 @@ export default [
               },
               {
                 path: '/springboot-handbook/docs/qianyan',
-                component: ComponentCreator('/springboot-handbook/docs/qianyan', '49c'),
+                component: ComponentCreator('/springboot-handbook/docs/qianyan', '99a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/springboot-handbook/docs/try-it/try-it',
-                component: ComponentCreator('/springboot-handbook/docs/try-it/try-it', '35f'),
+                component: ComponentCreator('/springboot-handbook/docs/try-it/try-it', '99f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/springboot-handbook/docs/tutorial-basics/config-env',
-                component: ComponentCreator('/springboot-handbook/docs/tutorial-basics/config-env', '79d'),
+                component: ComponentCreator('/springboot-handbook/docs/tutorial-basics/config-env', '7ac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/springboot-handbook/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/springboot-handbook/docs/tutorial-basics/markdown-features', 'b96'),
+                component: ComponentCreator('/springboot-handbook/docs/tutorial-basics/markdown-features', 'b5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/springboot-handbook/docs/xuyan',
-                component: ComponentCreator('/springboot-handbook/docs/xuyan', 'be9'),
+                component: ComponentCreator('/springboot-handbook/docs/xuyan', '258'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -101,11 +106,6 @@ export default [
         ]
       }
     ]
-  },
-  {
-    path: '/springboot-handbook/',
-    component: ComponentCreator('/springboot-handbook/', 'f83'),
-    exact: true
   },
   {
     path: '*',
