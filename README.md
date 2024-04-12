@@ -1,6 +1,6 @@
 # SpringBoot HandBook
 
-## 项目简介
+## 内容简介
 
 预期的内容如下：
 
@@ -50,6 +50,8 @@
 - SpringBoot 如何开发 graphql
 - SpringBoot 如何开发 rpc
 - SpringBoot 如何开发 dubbo
+- SpringBoot 如何开发 starter
+- SpringBoot 如何开发 注解
 
 ## 项目环境
 
