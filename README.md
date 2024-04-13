@@ -55,7 +55,7 @@
 
 ## 项目环境
 
-- JDK 17
+- JDK 11
 - SpringBoot x.x.x
 - Gradle x.x.x
 - IntelliJ IDEA
@@ -64,7 +64,7 @@
 
 1. Fork 本仓库
 2. 新建 Feature_xxx 分支
-3. 提交代码
+3. 提交修改内容
 4. 新建 Pull Request
 
 ## 项目作者
