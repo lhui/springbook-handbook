@@ -40,6 +40,7 @@
 - 进行 SpringBoot 项目的安全防护
 - 使用 SpringBoot 实现分布式系统
 - 什么是 TDD 开发
+- 什么是 DDD 开发
 - 使用 SpringBoot 链接 nebula graph
   - 图数据库是什么
 - 使用 SpringBoot 进行内存泄露分析及解决方案
@@ -61,7 +62,25 @@
 - SpringBoot 如何开发第一个线程池
 - SpringBoot 如何开发第一个线程安全的程序
 - SpringBoot 如何开发第一个线程不安全的程序
-- 如何做 code review 以及 code review 的最佳实践 
+- 如何做 code review 以及 code review 的最佳实践
+- Springboot 如何做代码规范检查
+- Springboot 如何做代码质量检查
+- Springboot 如何进行代码重构
+- Springboot 如何连接 vault
+
+附录:
+
+- 搭建 ELK 日志分析系统
+- 搭建 Prometheus 监控系统
+- 搭建 Grafana 监控系统
+- 搭建 Zipkin 分布式链路追踪系统
+- 搭建 Skywalking 分布式链路追踪系统
+- 搭建 Jaeger 分布式链路追踪系统
+- 搭建 Arthas 线上诊断系统
+- 搭建 JProfiler 线上诊断系统
+- 搭建 YourKit 线上诊断系统
+- 搭建 JMC 线上诊断系统
+- 搭建 Vault 进行密码管理
 
 ## 项目环境
 
