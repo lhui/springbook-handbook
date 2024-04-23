@@ -67,6 +67,7 @@
 - Springboot 如何做代码质量检查
 - Springboot 如何进行代码重构
 - Springboot 如何连接 vault
+- Springboot 如何连接 kafka
 
 附录:
 
