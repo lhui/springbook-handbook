@@ -68,6 +68,19 @@
 - Springboot 如何进行代码重构
 - Springboot 如何连接 vault
 - Springboot 如何连接 kafka
+- Springboot 如何配置 Springboot Security
+- Springboot 如何配置 Springboot OAuth2
+- Springboot 如何配置 Springboot JWT
+- Springboot 如何配置 Springboot SSO
+- Springboot 如何配置 Springboot Shiro
+- Springboot 如何配置 Springboot Mybatis
+- Springboot 如何配置 Springboot JPA
+- Springboot 如何配置 Springboot Hibernate
+- Springboot 如何配置 Springboot Redis
+- Springboot 如何配置 Springboot MongoDB
+- Springboot 如何配置 Springboot Elasticsearch
+- Springboot 如何配置 Springboot Solr
+- Springboot 如何配置 Springboot Zookeeper
 
 附录:
 
