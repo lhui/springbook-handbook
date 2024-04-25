@@ -81,6 +81,7 @@
 - Springboot 如何配置 Springboot Elasticsearch
 - Springboot 如何配置 Springboot Solr
 - Springboot 如何配置 Springboot Zookeeper
+- Springboot 使用 Guava
 
 附录:
 
