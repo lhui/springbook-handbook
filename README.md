@@ -82,6 +82,9 @@
 - Springboot 如何配置 Springboot Solr
 - Springboot 如何配置 Springboot Zookeeper
 - Springboot 使用 Guava
+- Springboot 使用 Apache Commons
+- Springboot 使用 Google Guice
+
 
 附录:
 
